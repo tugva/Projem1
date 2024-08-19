@@ -19,3 +19,24 @@ Bu proje, klasik "Taş-Kağıt-Makas" oyununun Python ile basit bir uygulamasıd
 6. **Adım:** Oyun bittiğinde, tekrar oynamak isteyip istemediğiniz sorulur.
 
 
+# Rock-Paper-Scissors Game
+
+## Description
+This project is a simple implementation of the classic "Rock-Paper-Scissors" game using Python. The game allows the player to compete against the computer, and it continues until either the player or the computer wins two rounds. After each game, both the player and the computer are asked if they want to continue playing. The game is a great way to practice and learn basic Python concepts.
+
+## Features
+- **Best of Three Series:** The game ends when either the player or the computer wins two rounds.
+- **Score Tracking:** The score is updated and displayed after each game, allowing players to keep track of the progress.
+- **Replay Option:** After each game, the player can choose to restart the game or exit.
+- **PEP-8 Compliant:** The code is written following Python's PEP-8 style guide.
+- **Random Computer Move:** The computer randomly selects between rock, paper, or scissors each round.
+
+## How to Play
+1. **Step 1:** Run the script in your terminal or command prompt.
+2. **Step 2:** When prompted, enter your choice of "rock," "paper," or "scissors."
+3. **Step 3:** The computer will make a random selection.
+4. **Step 4:** The result will be displayed, showing who won the round or if it was a tie.
+5. **Step 5:** The game continues until either the player or the computer wins two rounds.
+6. **Step 6:** At the end of the game, you'll be asked if you want to play again.
+
+
